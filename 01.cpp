@@ -11,5 +11,5 @@ int main()
 		c++;
 		x /= 10;
 	}
-	cout << c; 
+	cout <<"Number of  Digits : " << c; 
 } 
